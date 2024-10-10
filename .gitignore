@@ -1,5 +1,6 @@
-.venv
+env
 03_Petfinder_EDA NCH.ipynb
 03_Petfinder_EDA Original.ipynb
 liks_utiles.txt
 petfinder-adoption-prediction.zip
+data/
